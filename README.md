@@ -49,4 +49,6 @@ In the process, I built practical experience and develop intuition around the fo
 ** We manipulated tensors directly, which makes debugging and working with tensors easier.
 * We iteratively updated our image by applying our optimizers update rules using tf.gradient. The optimizer minimized a given loss with respect to our input image.
 
-### Repository by: PranjalBeniwal
+---
+
+#### Repository by: PranjalBeniwal
